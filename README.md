@@ -59,6 +59,12 @@
 |---|---|---|---|---|
 | [obsidian-md2wechat](https://github.com/geekjourneyx/obsidian-md2wechat) | 桌面 Obsidian 插件；笔记旁预览、确认创建微信草稿 | AGPL-3.0-only | 2026-09-09 | 需要 Obsidian 1.12.7+ 和已配置的 md2wechat CLI；插件内不再配置 Key，Windows/Linux 尚未实测 |
 
+### 归档与导入
+
+| 项目 | 入口与用途 | 许可证 | 最近更新 | 使用前留意 |
+|---|---|---|---|---|
+| [ReadGZH](https://github.com/sweesama/readgzh) | 托管网页、REST API、远程 MCP；将已有公开公众号文章链接转为正文或 Markdown | AGPL-3.0 | 2026-09-14 | 托管服务按积分使用；缓存搜索不等于全微信搜索，不保证删除或付费文章可读；由项目维护者投稿 |
+
 ## 信息待补充
 
 这些项目与主题相关，但缺少可读取的许可证文件，因此暂不放入上面的确认清单。
